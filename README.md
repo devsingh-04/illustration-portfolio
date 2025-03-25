@@ -48,7 +48,7 @@ If you’d like to contribute or improve this project, feel free to fork the rep
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out via:
-- **Email:** sathish31102004@gmail.com
+- **Email:** dsingh240204@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/sathishk-dev)
 
 ---
