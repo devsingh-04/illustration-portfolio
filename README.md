@@ -52,4 +52,4 @@ If you have any questions or suggestions, feel free to reach out via:
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/sathishk-dev)
 
 ---
-Made with ❤️ by Sathish Kumar.
+Made By Devpratap R Singh.
